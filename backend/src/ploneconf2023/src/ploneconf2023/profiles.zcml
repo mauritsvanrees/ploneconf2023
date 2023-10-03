@@ -6,7 +6,7 @@
 
   <genericsetup:registerProfile
       name="default"
-      title="Plone Conference Training: Install"
+      title="Plone Conference 2023 Training: Install"
       description="Policy package to install our site"
       provides="Products.GenericSetup.interfaces.EXTENSION"
       directory="profiles/default"
@@ -14,7 +14,7 @@
 
   <genericsetup:registerProfile
       name="initial"
-      title="Plone Conference Training: Initial content"
+      title="Plone Conference 2023 Training: Initial content"
       description="Initial content for our website."
       provides="Products.GenericSetup.interfaces.EXTENSION"
       directory="profiles/initial"
@@ -23,7 +23,7 @@
 
   <genericsetup:registerProfile
       name="uninstall"
-      title="Plone Conference Training: Uninstall"
+      title="Plone Conference 2023 Training: Uninstall"
       description="Uninstall Plone Conference Training setup."
       provides="Products.GenericSetup.interfaces.EXTENSION"
       directory="profiles/uninstall"

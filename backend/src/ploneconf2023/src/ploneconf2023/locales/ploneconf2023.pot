@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-10-03 12:24+0000\n"
+"POT-Creation-Date: 2023-10-03 14:58+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,15 +22,15 @@ msgid "Initial content for our website."
 msgstr ""
 
 #: ploneconf2023/src/ploneconf2023/profiles.zcml:22
-msgid "Plone Conference Training: Initial content"
+msgid "Plone Conference 2023 Training: Initial content"
 msgstr ""
 
 #: ploneconf2023/src/ploneconf2023/profiles.zcml:13
-msgid "Plone Conference Training: Install"
+msgid "Plone Conference 2023 Training: Install"
 msgstr ""
 
 #: ploneconf2023/src/ploneconf2023/profiles.zcml:30
-msgid "Plone Conference Training: Uninstall"
+msgid "Plone Conference 2023 Training: Uninstall"
 msgstr ""
 
 #: ploneconf2023/src/ploneconf2023/profiles.zcml:13
